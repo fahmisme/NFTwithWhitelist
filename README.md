@@ -14,7 +14,7 @@ Let's build your first NFT in blockchain ecosystem. Add whitelist feature to mak
 
 # How to play 🎮
 - npm install nftwithwhitelist
-- npm start
+- npx nftwithwhitelist init
 - Go to **contracts** directories. Then, rename file "**AneFahmi.sol**" to other filetype, maybe *.html*. It's to avoiding an error when deploy **Whitelist.sol**.
 - npx hardhat run scripts/deploy.js --network sepolia
 - Make sure you don't look any error when deploy it. **Copy** a whitelist contract address you got and open a link "https://sepolia.etherscan.io/address/{YOURWHITELISTCONTRACTADDRESS}
