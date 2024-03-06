@@ -1,6 +1,6 @@
 {
   "name": "nftwithwhitelist",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Let's build your first NFT in blockchain ecosystem. Add whitelist feature to make your NFT more realistic 😎",
   "type" : "module",
   "main": "index.js",
